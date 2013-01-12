@@ -9,6 +9,7 @@ HTML
 AJAX (could be the cleaner)
 Visual Basic
 LabVIEW
+JSON
 XML
 VSS
 HURD
@@ -20,12 +21,14 @@ SQL
 MUMPS (could be the disease)
 Refactoring
 Richard Stallman
+Linus Torvalds
 Apache (could be the indians)
 WikiPedia
 AbstractSingletonProxyFactoryBean
 $_
 *++b?(*++b + *(b-1)):0
 Dining Philosophers (could be just some random philosophers dining)
+Traveling Salesmen
 Goto
 IE
 Dijkstra (no first name so can count as the graph algorithm)
