@@ -52,3 +52,5 @@ Unrolling all for loops to make them faster.
 Changelog: .
 Telling the CEO to RTFM
 Website that only work in IE 6
+Distributed Version Control Systems
+Open Source
