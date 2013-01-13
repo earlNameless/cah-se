@@ -21,6 +21,7 @@ TDD
 ColdFusion
 SQL
 MUMPS (could be the disease)
+Mono (could be the disease)
 Refactoring
 Richard Stallman
 Linus Torvalds
