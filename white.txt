@@ -67,3 +67,8 @@ Pair programming
 Agile (design paradigm, but could be an agile person)
 Tail recursion
 Grammar (compiler, but could be any grammar)
+Steve Jobs
+Bill Gates
+Oracle (could be an oracle like in matrix)
+Brainfuck (language or ... the activity)
+Prolog (could be preliminary discourse)
