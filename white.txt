@@ -4,6 +4,8 @@ C++
 Java
 PHP
 Perl
+Python
+Ruby
 JavaScript
 HTML
 AJAX (could be the cleaner)
@@ -28,11 +30,11 @@ AbstractSingletonProxyFactoryBean
 $_
 *++b?(*++b + *(b-1)):0
 Dining Philosophers (could be just some random philosophers dining)
-Traveling Salesmen
+Traveling Salesman
 Goto
 IE
 Dijkstra (no first name so can count as the graph algorithm)
-True, Flase, FileNotFound
+True, False, FileNotFound
 The Intern (can be any profession)
 The Guru (can be any profession)
 Duck (duck typing, but could be just a duck)
@@ -55,7 +57,12 @@ Website that only work in IE 6
 Distributed Version Control Systems
 Open Source
 Cloud (could be actual clouds)
+Big Data
 Regular Expressions (could be human expressions that are regular)
 Bit (can count as a bit of something)
 Nibble (can count as biting a little bit)
 virus (could be human virus)
+Pair programming
+Agile
+Tail recursion
+Grammar
