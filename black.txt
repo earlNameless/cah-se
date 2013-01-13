@@ -4,3 +4,6 @@ And the Turing Award for ____ goes to ____.
 Use ____ to parse ____.
 _____ is Larry Walls guilty pleasure.
 Let's run ____ in the cloud.
+_____ as a Service.
+_____ will help make _____ web-scale.
+Our _____ to _____ compiler will revolutionize the internet.
