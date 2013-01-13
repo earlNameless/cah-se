@@ -54,3 +54,5 @@ Telling the CEO to RTFM
 Website that only work in IE 6
 Distributed Version Control Systems
 Open Source
+Cloud (could be actual clouds)
+Regular Expressions (could be human expressions that are regular)
