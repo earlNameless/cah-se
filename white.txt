@@ -56,3 +56,5 @@ Distributed Version Control Systems
 Open Source
 Cloud (could be actual clouds)
 Regular Expressions (could be human expressions that are regular)
+Bit (can count as a bit of something)
+Nibble (can count as biting a little bit)
