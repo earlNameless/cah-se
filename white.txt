@@ -1,11 +1,11 @@
-C#
+C# (could be musical note)
 C
 C++
-Java
+Java (could be the island, or type of beans)
 PHP
 Perl
-Python
-Ruby
+Python (could be the snake)
+Ruby (could be the rock)
 JavaScript
 HTML
 AJAX (could be the cleaner)
@@ -39,10 +39,10 @@ The Intern (can be any profession)
 The Guru (can be any profession)
 Duck (duck typing, but could be just a duck)
 Microsoft
-Apple
-Google
-REST
-Source Code
+Apple (could be fruit)
+Google (company or verb)
+REST (technically could be to rest)
+Source Code (could be the movie)
 GNU/Linux
 VHDL
 IBM
@@ -63,6 +63,6 @@ Bit (can count as a bit of something)
 Nibble (can count as biting a little bit)
 virus (could be human virus)
 Pair programming
-Agile
+Agile (design paradigm, but could be an agile person)
 Tail recursion
-Grammar
+Grammar (compiler, but could be any grammar)
