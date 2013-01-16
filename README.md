@@ -13,3 +13,4 @@ Black cards are questions, white cards are answers.
 
 The goal is to have 100 predefined cards, and 12 blank.
 
+See LICENSE for license.
