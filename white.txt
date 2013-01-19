@@ -78,3 +78,4 @@ Jon Skeet
 Boxing (data types, but could be face punching)
 bash (shell, or hitting/destroying something)
 terminal (also could be final)
+floppy (could be the adjective)
