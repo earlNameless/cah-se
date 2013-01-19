@@ -48,6 +48,7 @@ GNU/Linux
 VHDL
 IBM
 COBOL
+dump (as in core dump)
 Writing a Java to .NET bytecode converter in XSLT
 Stack smashing
 Dogfooding (could count as feeding the dog)
